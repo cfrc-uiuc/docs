@@ -1,4 +1,3 @@
-#+options: \n:t
 * Database Server Addressing
 
 This section lists Fully Qualified Domain Names for database servers.
@@ -19,7 +18,7 @@ db3.cfrc.illinois.edu
 
 Current statuses of DCFS databases:
 
-*DCFS_PROD:* June 30, 2023
+*DCFS_PROD:* June 30, 2023  
 *DCFS_DEV:* September 30, 2023
 *DCFS_ANNUAL:* BH2023 (Extraction: December 31, 2022)
 *DCFS_STABLE:* Mystery.
