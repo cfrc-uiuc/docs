@@ -24,5 +24,5 @@
 ## Misc
 
 [Desktop Tips](docs/misc/Desktop_Tips.md)  
-[Recommended Reading](docs/misc/recommendedReading.md)  
+[Recommended Reading](docs/misc/recommendedReading.org)  
 [Programming Resources](docs/misc/programmingResources.md)  
