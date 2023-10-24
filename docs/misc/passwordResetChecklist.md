@@ -17,7 +17,7 @@ After resetting your NetID Password:
     require you to log into the desktop application again)
 7.  Updated any SQL client passwords (DBeaver)
 8.  Change your SAS password: [SAS Database
-    Credentials](SAS_Database_Credentials "wikilink")
+    Credentials](../sas/sasDatabaseCredentials.sas)
 
 There will be some other programs that will require a password change
 (like your mail client, instant messaging client, etc), but these should
