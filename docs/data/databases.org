@@ -349,11 +349,10 @@ report. It will always correspond with the live Outcomes website.
 
 This database will contain static data for the purposes of code testing.
 
-* Geocoding [DRAFT]
-
+* Geocoding
 ** Geocoding Process
 
-...
+...[to be added]...
 
 ** Outputs
 
