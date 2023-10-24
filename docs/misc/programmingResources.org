@@ -76,5 +76,5 @@ collection of charts made with Python, including source code.
 Python code (following this has been statistically proven to greatly
 reduce workplace violence).
 
-[[https://github.com/cfrc-toolbox/cfrctoolbox/][cfrctoolbox]] Project for
+[[https://github.com/cfrc-uiuc/cfrctoolbox/][cfrctoolbox]] Project for
 CFRC-specific Python tools, such as database connection functions.
