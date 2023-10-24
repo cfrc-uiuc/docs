@@ -821,5 +821,3 @@ been returned." "The family that lives in Urbana is an intact family."
 </tr>
 </tbody>
 </table>
-
-[Category:Publications](Category:Publications "wikilink")

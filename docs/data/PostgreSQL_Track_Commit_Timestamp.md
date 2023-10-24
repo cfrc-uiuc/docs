@@ -29,5 +29,3 @@ determine) in ascending order, by writing something like:
 NOTE: This feature was only enabled on November 16, 2018, at around
 11:00am. Any records written in any table before this date will not
 contain commit timestamps.
-
-[Category:Data](Category:Data "wikilink")

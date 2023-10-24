@@ -15,5 +15,3 @@ result in any loss of data. Additionally, PostgreSQL tables (all tables
 in our PostgreSQL database use *UTF-8*) that use a *text* field type
 seem to be populated normally by SAS sessions loaded with *Latin1*
 encoding enabled by default.
-
-[Category:SAS](Category:SAS "wikilink")

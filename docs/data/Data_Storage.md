@@ -21,5 +21,3 @@ local file storage can compromise both data security and data integrity.
 #### Quantitative
 
 #### Program/Code
-
-[Category:Data](Category:Data "wikilink")

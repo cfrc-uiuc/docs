@@ -22,5 +22,3 @@ The above variables could be called from a SAS program by just
 referencing the variable:
 
     %include "&path/macros/myMacro.sas";
-
-[Category:SAS](Category:SAS "wikilink")

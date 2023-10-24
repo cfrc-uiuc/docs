@@ -52,5 +52,3 @@ You will also want to change permissions on this file accordingly:
 From there, you could edit the file to contain your specific user
 credentials. Naturally, if you do not have access to the data source
 listed, access will be denied once a connection is attempted.
-
-[Category:Data](Category:Data "wikilink")

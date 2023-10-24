@@ -409,5 +409,3 @@ not always be the case. A safe margin of error, until further testing
 has been done to determine a safe cut off, may be to trust only very low
 ratings, such as *5* or *10* and below. Naturally, the geographic region
 you are studying may impact what a safe margin of error is for you.
-
-[Category:Data](Category:Data "wikilink")

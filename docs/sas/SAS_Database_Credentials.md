@@ -63,6 +63,3 @@ credentials file:
     %let pwd="{SAS002}718373011A8AC53B451D8A0B124B051F";
 
 This will add a little more security to your credential storage.
-
-[Category:Data](Category:Data "wikilink")
-[Category:SAS](Category:SAS "wikilink")
