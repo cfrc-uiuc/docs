@@ -18,13 +18,12 @@ db3.cfrc.illinois.edu
 
 Current statuses of DCFS databases:
 
-*DCFS_PROD:* June 30, 2023
-
-*DCFS_DEV:* September 30, 2023
-
-*DCFS_ANNUAL:* BH2023 (Extraction: December 31, 2022)
-
-*DCFS_STABLE:* Mystery.
+#+BEGIN_HTML
+<strong>DCFS_PROD:</strong> June 30, 2023 <br>
+<strong>DCFS_DEV:</strong> September 30, 2023 <br>
+<strong>DCFS_ANNUAL:</strong> BH2023 (Extraction: December 31, 2022) <br>
+<strong>DCFS_STABLE:</strong> Mystery. <br>
+#+END_HTML
 
 ** # Changelog
 
