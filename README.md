@@ -12,9 +12,9 @@
 
 ## Technical Documentation
 
-[Data & Data Access](data/index.md)   
-[Git Branch Naming](dosc/Git_Branch_Naming_Convention.md)  
-[SAS](sas/index.md )  
+[Data & Data Access](docs/data/index.md)   
+[Git Branch Naming](docs/Git_Branch_Naming_Convention.md)  
+[SAS](docs/sas/index.md )  
 [Password Reset Checklist](docs/Password_Reset_Checklist.md)  
 
 ## Style Books
