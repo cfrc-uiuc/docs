@@ -319,9 +319,9 @@ quarter (i.e., The Q3 report will use Q4 data).
 - Additional fields in sacwis.old_safety_plan
 - New indexes for sacwis.old_safety_plan
 
-** Database Descriptions
+* Database Descriptions
 
-*** DCFS_DEV
+** DCFS_DEV
 
 This database will contain current development data.
 
@@ -332,29 +332,27 @@ July - September: Data through June
 October - December: Data through September
 Once completed, this database will be transferred to DCFS_PROD.
 
-*** DCFS_ANNUAL
+** DCFS_ANNUAL
 
 This will hold the development data for the current annual BH report
 once completed, assuming that data has been collected from DCFS.
 
-*** DCFS_PROD
+** DCFS_PROD
 
 This database will contain data from most recent completed quarterly
 report. It will always correspond with the live Outcomes website.
 
-*** DCFS_STABLE
+** DCFS_STABLE
 
 This database will contain static data for the purposes of code testing.
 
-** Geocoding
+* Geocoding [DRAFT]
 
-<strong style="color:red;"> DRAFT </strong>
-
-*** Geocoding Process
+** Geocoding Process
 
 ...
 
-*** Outputs
+** Outputs
 
 Currently, three DCFS tables are geocoded using Census data:
 
@@ -365,7 +363,7 @@ Currently, three DCFS tables are geocoded using Census data:
 Finalized and de-identified versions of the above tables are loaded in
 the geo schema.
 
-*** Rating
+** Rating
 The PostGIS geocode function produces a rating that has been added to
 the records of geocoded tables. These ratings could be thought of as a
 confidence score. Simplistically, the lower the score, the greater the
