@@ -2,25 +2,27 @@
 
 ## General Topics
 
-[BH Data](docs/BH_Data.md)  
-[DCFS Data Changelog](docs/Changelog.md)  
+[BH Data](docs/bh/bhData.md)  
+[DCFS Data Changelog](docs/bh/CHANGELOG.md)  
 [DCFS Database Status](docs/data/Databases.md)  
 [Geocoding](docs/data/Databases.md#Geocoding)  
-[Virtual Desktop for Statistics](docs/VirtualDesktop.md)  
-[Maltreatment in Care Dashboard](docs/Maltreatment_in_Care_Dashboard.md)  
+[Virtual Desktop for Statistics](docs/misc/virtualDesktop.md)  
+[Maltreatment in Care Dashboard](docs/maltreatmentInCareDashboard.md)  
 [SAS Encoding](docs/sas/SAS_Encoding.md)  
 
 ## Technical Documentation
 
 [Data & Data Access](docs/data/index.md)   
-[Git Branch Naming](docs/Git_Branch_Naming_Convention.md)  
+[Git Branch Naming](docs/misc/gitBranchNamingConvention.md)  
 [SAS](docs/sas/index.md )  
-[Password Reset Checklist](docs/Password_Reset_Checklist.md)  
+[Password Reset Checklist](docs/misc/passwordResetChecklist.md)  
 
 ## Style Books
 
-[CFRC Style Book](docs/CFRC_Style_Book.md)  
+[CFRC Style Book](docs/styebooks/cfrcStyleBook.md)  
 
 ## Misc
 
-[Desktop Tips](docs/Desktop_Tips.md)  
+[Desktop Tips](docs/misc/Desktop_Tips.md)  
+[Recommended Reading](docs/misc/recommendedReading.md)  
+[Programming Resources](docs/misc/programmingResources.md)  
