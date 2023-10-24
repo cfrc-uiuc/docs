@@ -323,7 +323,7 @@ are not listed on the current SACWIS table.
 
 ## Age group
 
-- [Child age](BH_Data#Age "wikilink") is organized by the following four
+- [Child age](BH_Data#Age) is organized by the following four
   intervals and derived from a child's date of birth.
   - Under 3 years old
   - 3 to 5
@@ -915,8 +915,8 @@ years)</p></td>
 
 - If the ethnicity code is either 'HA', 'HC', 'HM', 'HN', 'HP', 'HS',
   'HD', or 'HO,' the person is coded as Hispanic. After that, we combine
-  this variable with the [race](BH_Data#Race "wikilink") variable to
-  create the [race/ethnicity](BH_Data#Race/Ethnicity "wikilink")
+  this variable with the [race](BH_Data#Race) variable to
+  create the [race/ethnicity](BH_Data#Race/Ethnicity)
   variable for *B.H.* report.
 
 ## End of year placement
@@ -931,18 +931,18 @@ years)</p></td>
 
 | ID | Event                                                                              |
 |----|------------------------------------------------------------------------------------|
-| 01 | [Home of parent (HMP)](BH_Data#Home_of_parent_(HMP) "wikilink")                    |
+| 01 | [Home of parent (HMP)](BH_Data#Home_of_parent_(HMP))                    |
 | 02 | Kinship foster home                                                                |
 | 03 | Adoptive placement                                                                 |
-| 04 | [Traditional foster home](BH_Data#Traditional_foster_home_(TFH) "wikilink")        |
-| 05 | [Specialized foster home](BH_Data#Specialized_or_treatment_foster_home "wikilink") |
-| 06 | [Group home](BH_Data#Group_home_(GH) "wikilink")                                   |
-| 07 | [Institution](BH_Data#Institution "wikilink")                                      |
+| 04 | [Traditional foster home](BH_Data#Traditional_foster_home_(TFH))        |
+| 05 | [Specialized foster home](BH_Data#Specialized_or_treatment_foster_home) |
+| 06 | [Group home](BH_Data#Group_home_(GH))                                   |
+| 07 | [Institution](BH_Data#Institution)                                      |
 | 08 | Adoption subsidy                                                                   |
-| 09 | [Independent living](BH_Data#Independent_living "wikilink")                        |
+| 09 | [Independent living](BH_Data#Independent_living)                        |
 | 10 | Subsidized guardianship                                                            |
-| 11 | [Emergency shelter](BH_Data#Emergency_shelter "wikilink")                          |
-| 12 | [Emergency foster home](BH_Data#Emergency_foster_home_(EFH) "wikilink")            |
+| 11 | [Emergency shelter](BH_Data#Emergency_shelter)                          |
+| 12 | [Emergency foster home](BH_Data#Emergency_foster_home_(EFH))            |
 | 13 | Runaway (RNY), Abducted (ABD), Unknown contact (WCC), Whereabouts                  |
 | 14 | Detention/institution (DET, IDC)                                                   |
 | 15 | Unauthorized home of parent (UAH), Unauthorized placement (UAP)                    |
@@ -987,7 +987,7 @@ The BH indicators with event exclusions are shown in the table below.
   relatives). Others exit substitute care without ever achieving legal
   permanence (e.g., aged out, entering a hospital or institution,
   independent living, incarcerated, runaway, death, other setting).
-- Read [Otherwise exit](BH_Data#Otherwise_exit "wikilink") for more
+- Read [Otherwise exit](BH_Data#Otherwise_exit) for more
   details about other exit type without ever achieving legal permanence.
 - The coding scheme for "non-permanency exit from substitute care" was
   changed to the following in November, 2017.
@@ -1433,11 +1433,11 @@ abuse/neglect statistics. Springfield: Author. Retrieved from
 - The median represents the amount of time that it took half of children
   who entered substitute care in a fiscal year to exit care.
 - In the BH measure the length of stay in substitute care is calculated
-  using the first [spell](BH_Data#Spell "wikilink") after a child was
+  using the first [spell](BH_Data#Spell) after a child was
   placed in a substitute care. See [Indicator: median length of stay in
-  substitute care](BH_Data#ind2g_lengthofstay "wikilink").
+  substitute care](BH_Data#ind2g_lengthofstay).
 - If the child has more than one spell during the fiscal year, the first
-  [spell](BH_Data#Spell "wikilink") is selected.
+  [spell](BH_Data#Spell) is selected.
 
 ## Non-permanency exit
 
@@ -1475,9 +1475,9 @@ abuse/neglect statistics. Springfield: Author. Retrieved from
 ## Permanency exit
 
 - It includes exiting from substitute care due to
-  [reunification](BH_Data#Reunification "wikilink"), adoption,
+  [reunification](BH_Data#Reunification), adoption,
   guardianship, living with relatives, and [otherwise
-  exited](BH_Data#Otherwise_exit "wikilink"). A relative assumes legal
+  exited](BH_Data#Otherwise_exit). A relative assumes legal
   guardianship of a child without receiving a subsidy or becoming
   licensed foster parents.
 
@@ -1514,16 +1514,16 @@ post-discharge.
 
 There are seven placement types in the *B.H.* report:
 
-- [Home of parent(s)](BH_Data#Home_of_parent "wikilink")
-- [Kinship foster home](BH_Data#Kinship_foster_home "wikilink")
-- [Traditional foster home](BH_Data#Traditional_foster_home "wikilink")
+- [Home of parent(s)](BH_Data#Home_of_parent)
+- [Kinship foster home](BH_Data#Kinship_foster_home)
+- [Traditional foster home](BH_Data#Traditional_foster_home)
 - [Specialized or treatment foster
-  home](BH_Data#Specialized_or_treatment_foster_home "wikilink")
-- [Emergency shelter](BH_Data#Emergency_shelter "wikilink") or
+  home](BH_Data#Specialized_or_treatment_foster_home)
+- [Emergency shelter](BH_Data#Emergency_shelter) or
   [emergency foster
-  home](BH_Data#Emergency_foster_home_(EFH) "wikilink")
-- [Group home](BH_Data#Group_home "wikilink")
-- [Institution](BH_Data#Institution "wikilink")
+  home](BH_Data#Emergency_foster_home_(EFH))
+- [Group home](BH_Data#Group_home)
+- [Institution](BH_Data#Institution)
 
 ## Protective custody
 
@@ -1556,10 +1556,10 @@ There are seven placement types in the *B.H.* report:
   race/ethnicity is 'CV', 'UN' , 'DI' or missing (null), it is recoded
   as *missing*.
 - For more information about how to code Hispanic, see
-  [Ethnicity](BH_Data#Ethnicity "wikilink").
+  [Ethnicity](BH_Data#Ethnicity).
 - For more information about the operational definition of
   race/ethnicity, see
-  [Race/Ethnicity](BH_Data#Race/Ethnicity "wikilink").
+  [Race/Ethnicity](BH_Data#Race/Ethnicity).
 
 ## Race/Ethnicity
 
@@ -1587,7 +1587,7 @@ There are seven placement types in the *B.H.* report:
   as missing and excluded when indicators are reported by
   race/ethnicity.
 - For more information about the original race code, see
-  [Race](BH_Data#Race "wikilink").
+  [Race](BH_Data#Race).
 
 ## Recurrence
 
@@ -1609,10 +1609,10 @@ There are seven placement types in the *B.H.* report:
 
 ## Region
 
-- There are four regions: [Cook](BH_Data#Cook_region "wikilink");
-  [Northern](BH_Data#Northern_region "wikilink");
-  [Central](BH_Data#Central_region "wikilink"); and
-  [Southern](BH_Data#Southern_region "wikilink"). The region refers to
+- There are four regions: [Cook](BH_Data#Cook_region);
+  [Northern](BH_Data#Northern_region);
+  [Central](BH_Data#Central_region); and
+  [Southern](BH_Data#Southern_region). The region refers to
   the DCFS administrative region.
 - To understand the relationships among region code, subregion, and
   region, see the DATAREF.region_xref table.
@@ -1927,7 +1927,7 @@ abuse/neglect statistics. Springfield: Author. Retrieved from
 - One of the BH measures, length of stay is calculated for the first
   spell after a child was placed in a substitute care. See [Indicator:
   median length of stay in substitute
-  care](BH_Data#ind2g_lengthofstay "wikilink").
+  care](BH_Data#ind2g_lengthofstay).
 
 ## Stability
 
