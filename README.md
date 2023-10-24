@@ -7,7 +7,7 @@
 [DCFS Database Status](docs/data/databases.org)  
 [Geocoding](docs/data/databases.org#Geocoding)  
 [Virtual Desktop for Statistics](docs/misc/virtualDesktop.org)  
-[Maltreatment in Care Dashboard](docs/maltreatmentInCareDashboard.md)  
+[Maltreatment in Care Dashboard](docs/bh/maltreatmentInCareDashboard.md)  
 [SAS Encoding](docs/sas/sasEncoding.md)  
 
 ## Technical Documentation
