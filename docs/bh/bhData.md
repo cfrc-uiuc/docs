@@ -189,11 +189,11 @@ To learn more about the changes in the definitions of subsequent oral
 reports date, see: (a) *Overview: New DCFS Report on Child Protective
 Services (pp. 2-3)* in the DCFS document [Six-year Statistics on Child
 Protective Services: Data as of March 31,
-2018](https://wiki.cfrc.illinois.edu/documents/2018_March_six_year_stats.pdf)
+2018](pdfs/2018_March_six_year_stats.pdf)
 and/or (b)*Note on Subsequent Oral Reports Date (on p.2)* in the DCFS
 document [Six-year Statistics on Child Protective Services: Data as of
 June 30,
-2018](https://wiki.cfrc.illinois.edu/documents/2018_June_six_year_stats.pdf).
+2018](pdfs//2018_June_six_year_stats.pdf).
 
 <h1>
 
