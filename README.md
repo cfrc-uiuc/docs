@@ -25,4 +25,4 @@
 
 [Desktop Tips](docs/misc/desktopTips.org)  
 [Recommended Reading](docs/misc/recommendedReading.org)  
-[Programming Resources](docs/misc/programmingResources.md)  
+[Programming Resources](docs/misc/programmingResources.org)  
