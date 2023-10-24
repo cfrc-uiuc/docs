@@ -17,7 +17,7 @@ can be seen below:
 [OregonDR]
 Driver = PostgreSQL
 Description = PostgreSQL Data Source
-Servername = marvin.cfrc.illinois.edu
+Servername = db1.cfrc.illinois.edu
 Port = 5432
 Username =
 Password =
