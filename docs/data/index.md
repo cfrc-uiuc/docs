@@ -1,6 +1,6 @@
 # Data & Data Access
 
-[Databases](Databases.org)  
-[Data Storage](Data_Storage.md)  
-[PostgreSQL Commit Timestamps](PostgreSQL_Track_Commit_Timestamp.md)  
-[ODBC on Linux](ODBC_On_Linux.md)  
+[Databases](databases.org)  
+[Data Storage](dataStorage.md)  
+[PostgreSQL Commit Timestamps](postgresqlTrackCommitTimestamp.md)  
+[ODBC on Linux](odbcOnLinux.md)  
