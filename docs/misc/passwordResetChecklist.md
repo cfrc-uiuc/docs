@@ -1,8 +1,4 @@
-<h4 style="color: red;">
-
-DRAFT
-
-</h4>
+[DRAFT]
 
 After resetting your NetID Password:
 
