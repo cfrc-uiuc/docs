@@ -96,7 +96,9 @@ configuration files.
 
 An emample /~/.sasv9.cfg/:
 
-=   -WORK /SASWORK/=
+#+begin_src bash
+-WORK /SASWORK/=
+#+end_src
 
 * Git clients
 :PROPERTIES:
