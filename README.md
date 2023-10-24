@@ -23,6 +23,6 @@
 
 ## Misc
 
-[Desktop Tips](docs/misc/Desktop_Tips.md)  
+[Desktop Tips](docs/misc/desktopTips.org)  
 [Recommended Reading](docs/misc/recommendedReading.org)  
 [Programming Resources](docs/misc/programmingResources.md)  
