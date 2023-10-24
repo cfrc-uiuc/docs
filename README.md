@@ -6,7 +6,7 @@
 [DCFS Data Changelog](docs/bh/CHANGELOG.md)  
 [DCFS Database Status](docs/data/Databases.md)  
 [Geocoding](docs/data/Databases.md#Geocoding)  
-[Virtual Desktop for Statistics](docs/misc/virtualDesktop.md)  
+[Virtual Desktop for Statistics](docs/misc/virtualDesktop.org)  
 [Maltreatment in Care Dashboard](docs/maltreatmentInCareDashboard.md)  
 [SAS Encoding](docs/sas/SAS_Encoding.md)  
 
