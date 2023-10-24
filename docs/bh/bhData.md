@@ -73,57 +73,90 @@ Tables in BH_IND Schema
 The table below presents the indicator name, programming file, and the
 data table used for creating the indicator. Each indicator-specific
 table is saved in the BH_IND schema.
-{\| class="wikitable" \|- ! Indicator name ! Programming file ! BH
-database table \|- \| Maltreatment Recurrence \| ind1ac_cfsr_malt_recur
-\| cps_alleg \|- \| \| \| cps_inv \|- \| \| \| cps_child \|- \| \| \|
-client_xref \|- \| \| \| livarhist \|- \| \| \| cftvcr9600 \|- \| \| \|
-family_xref \|- \| \| \| client_xref \|- \| \| \| child_intact \|- \|
-Maltreatment Among Children in Intact Family Cases \|
-ind1b_cfsr_maltreat_intact \| child_intact \|- \| \| \| cps_alleg \|- \|
-Maltreatment Recurrence Among Children Receiving No Services \|
-ind1ac_cfsr_malt_recur \| cps_alleg \|- \| \| \| cps_inv \|- \| \| \|
-cps_child \|- \| \| \| client_xref \|- \| \| \| livarhist \|- \| \| \|
-cftvcr9600 \|- \| \| \| family_xref \|- \| \| \| client_xref \|- \| \|
-\| child_intact \|- \| Maltreatment in Substitute Care \|
-CFSR_number_of_days_V2 \| master_event \|- \| \| \| cps_inv \|- \| \| \|
-cps_alleg \|- \| \| \| cyc_child \|- \| \| \| case_region \|- \| \| \|
-cpscyc_link \|- \| Initial Placement \| in2a_ini_placetype \|
-master_event \|- \| \| \| master_spell \|- \| \| \| cyc_case \|- \| End
-of Year Placement \| ind2b_eoy_placetype \| master_event \|- \| \| \|
-cyc_case \|- \| \| \| master_spell \|- \| \| \| case_region \|- \| \| \|
-cyc_child \|- \| Initial Placement with Siblings \| ind2c_ini_sibling \|
-master_event \|- \| \| \| master_spell \|- \| \| \| cyc_case \|- \| End
-of Year Placement with Siblings \| ind2d_eoy_sibling \| master_event \|-
-\| \| \| cyc_case \|- \| \| \| master_spell \|- \| \| \| case_region \|-
-\| \| \| cyc_child \|- \| \| \| cftvcr9100 \|- \| Children Who Run Away
-from Substitute Care \| ind2f_runaway_1styr \| master_event \|- \| \| \|
-master_spell \|- \| \| \| cyc_case \|- \| Median Length of Stay in
-Substitute Care \| ind2g_lengthofstay \| master_event \|- \| \| \|
-master_spell \|- \| \| \| cyc_case \|- \| Exit to Permanence \|
-ind3aceg_exittoperm \| master_event \|- \| \| \| master_spell \|- \| \|
-\| cyc_case \|- \| Stability of Reunification \| ind3b_permstab_reunify
-\| master_spell \|- \| \| \| cyc_child \|- \| \| \| cyc_case \|- \| \|
-\| case_region \|- \| Stability of Adoption \| ind3d_permstab_adopt \|
-master_spell \|- \| \| \| adopt_link \|- \| \| \| cyc_child \|- \| \| \|
-cyc_case \|- \| \| \| case_region \|- \| Stability of Guardianship \|
-ind3f_permstab_gship \| master_spell \|- \| \| \| cyc_child \|- \| \| \|
-cyc_case \|- \| \| \| case_region \|- \| Stability of Living with
-Relatives \| ind3h_permstab_relative \| master_spell \|- \| \| \|
-case_region \|- \| \| \| cyc_child \|- \| \| \| cyc_case \|- \|
-Placement Stability \| CFSR_stability_V3 \| hmr_monitor \|- \|
-Permanency in 12 months for Children Enterting Substitue Care \|
-ind3g_cfsr_exit_to_perm12 \| master_spell \|- \| \| \| hmr_monitor \|-
-\| Permanency in 12 Months for Children in Care 12 to 23 Months \|
-ind3hi_cfsr_exit_to_perm \| master_spell \|- \| \| \| hmr_monitor \|- \|
-Permanency in 12 Months for Children in Care 24 Months or More \|
-ind3hi_cfsr_exit_to_perm \| master_spell \|- \| \| \| hmr_monitor \|- \|
-Re-Entry to Substitute Care Among Children in Care Less Than 12 Months
-\| ind3j_cfsr_reentry_12 \| adopt_link \|- \| \| \| master_spell \|- \|
-Re-Entry to Substitute Care Among Children in Care for 12 to 23 Months
-\| ind3k_cfsr_reentry_12to23 \| adopt_link \|- \| \| \| master_spell \|-
-\| Re-Entry to Substitute Care Among Children in Care for 24 or More
-Months \| ind3l_cfsr_reentry_24ormore \| adopt_link \|- \| \| \|
-master_spell \|}
+| Indicator name                                                           | Programming file            | BH database table |
+|--------------------------------------------------------------------------|-----------------------------|-------------------|
+| Maltreatment Recurrence                                                  | ind1ac_cfsr_malt_recur      | cps_alleg         |
+|                                                                          |                             | cps_inv           |
+|                                                                          |                             | cps_child         |
+|                                                                          |                             | client_xref       |
+|                                                                          |                             | livarhist         |
+|                                                                          |                             | cftvcr9600        |
+|                                                                          |                             | family_xref       |
+|                                                                          |                             | client_xref       |
+|                                                                          |                             | child_intact      |
+| Maltreatment Among Children in Intact Family Cases                       | ind1b_cfsr_maltreat_intact  | child_intact      |
+|                                                                          |                             | cps_alleg         |
+| Maltreatment Recurrence Among Children Receiving No Services             | ind1ac_cfsr_malt_recur      | cps_alleg         |
+|                                                                          |                             | cps_inv           |
+|                                                                          |                             | cps_child         |
+|                                                                          |                             | client_xref       |
+|                                                                          |                             | livarhist         |
+|                                                                          |                             | cftvcr9600        |
+|                                                                          |                             | family_xref       |
+|                                                                          |                             | client_xref       |
+|                                                                          |                             | child_intact      |
+| Maltreatment in Substitute Care                                          | CFSR_number_of_days_V2      | master_event      |
+|                                                                          |                             | cps_inv           |
+|                                                                          |                             | cps_alleg         |
+|                                                                          |                             | cyc_child         |
+|                                                                          |                             | case_region       |
+|                                                                          |                             | cpscyc_link       |
+| Initial Placement                                                        | in2a_ini_placetype          | master_event      |
+|                                                                          |                             | master_spell      |
+|                                                                          |                             | cyc_case          |
+| End of Year Placement                                                    | ind2b_eoy_placetype         | master_event      |
+|                                                                          |                             | cyc_case          |
+|                                                                          |                             | master_spell      |
+|                                                                          |                             | case_region       |
+|                                                                          |                             | cyc_child         |
+| Initial Placement with Siblings                                          | ind2c_ini_sibling           | master_event      |
+|                                                                          |                             | master_spell      |
+|                                                                          |                             | cyc_case          |
+| End of Year Placement with Siblings                                      | ind2d_eoy_sibling           | master_event      |
+|                                                                          |                             | cyc_case          |
+|                                                                          |                             | master_spell      |
+|                                                                          |                             | case_region       |
+|                                                                          |                             | cyc_child         |
+|                                                                          |                             | cftvcr9100        |
+| Children Who Run Away from Substitute Care                               | ind2f_runaway_1styr         | master_event      |
+|                                                                          |                             | master_spell      |
+|                                                                          |                             | cyc_case          |
+| Median Length of Stay in Substitute Care                                 | ind2g_lengthofstay          | master_event      |
+|                                                                          |                             | master_spell      |
+|                                                                          |                             | cyc_case          |
+| Exit to Permanence                                                       | ind3aceg_exittoperm         | master_event      |
+|                                                                          |                             | master_spell      |
+|                                                                          |                             | cyc_case          |
+| Stability of Reunification                                               | ind3b_permstab_reunify      | master_spell      |
+|                                                                          |                             | cyc_child         |
+|                                                                          |                             | cyc_case          |
+|                                                                          |                             | case_region       |
+| Stability of Adoption                                                    | ind3d_permstab_adopt        | master_spell      |
+|                                                                          |                             | adopt_link        |
+|                                                                          |                             | cyc_child         |
+|                                                                          |                             | cyc_case          |
+|                                                                          |                             | case_region       |
+| Stability of Guardianship                                                | ind3f_permstab_gship        | master_spell      |
+|                                                                          |                             | cyc_child         |
+|                                                                          |                             | cyc_case          |
+|                                                                          |                             | case_region       |
+| Stability of Living with Relatives                                       | ind3h_permstab_relative     | master_spell      |
+|                                                                          |                             | case_region       |
+|                                                                          |                             | cyc_child         |
+|                                                                          |                             | cyc_case          |
+| Placement Stability                                                      | CFSR_stability_V3           | hmr_monitor       |
+| Permanency in 12 months for Children Enterting Substitue Care            | ind3g_cfsr_exit_to_perm12   | master_spell      |
+|                                                                          |                             | hmr_monitor       |
+| Permanency in 12 Months for Children in Care 12 to 23 Months             | ind3hi_cfsr_exit_to_perm    | master_spell      |
+|                                                                          |                             | hmr_monitor       |
+| Permanency in 12 Months for Children in Care 24 Months or More           | ind3hi_cfsr_exit_to_perm    | master_spell      |
+|                                                                          |                             | hmr_monitor       |
+| Re-Entry to Substitute Care Among Children in Care Less Than 12 Months   | ind3j_cfsr_reentry_12       | adopt_link        |
+|                                                                          |                             | master_spell      |
+| Re-Entry to Substitute Care Among Children in Care for 12 to 23 Months   | ind3k_cfsr_reentry_12to23   | adopt_link        |
+|                                                                          |                             | master_spell      |
+| Re-Entry to Substitute Care Among Children in Care for 24 or More Months | ind3l_cfsr_reentry_24ormore | adopt_link        |
+|                                                                          |                             | master_spell      |
 
 <h1>
 
@@ -166,7 +199,7 @@ for the affected allegation, or indicated victims if the only indicated
 allegation is that affected allegation. [^2]
 
 | Class Action Lawsuit | Period Affected                   |
-|----------------------|-----------------------------------|
+|---------------------|----------------------------------|
 | Julie Q.             | October 1, 2001 - July 12, 2012   |
 | Ashley M.            | July 13, 2012 - December 31, 2013 |
 | Ashley M.            | May 31, 2014 - June 11, 2014      |
@@ -221,7 +254,7 @@ Glossary
   adoption assistance).
 
 | cd_type_serv | Description                              |
-|--------------|------------------------------------------|
+|-------------|-----------------------------------------|
 | 301          | Adoption Subsidy / Ongoing               |
 | 302          | Adoption Subsidy / Legal                 |
 | 303          | Adoption Subsidy / Medical               |
@@ -848,7 +881,7 @@ years)</p></td>
   shelter.
 
 | cd_type_serv | Description                              |
-|--------------|------------------------------------------|
+|-------------|-----------------------------------------|
 | 178          | Agency Foster Care / Shelter Care        |
 | 221          | Emergency Shelters - Institutions        |
 | 222          | Emergency Shelter - Group Home           |
@@ -896,30 +929,30 @@ years)</p></td>
 - The "event" field includes a placement where a child was placed to.
   See the DATAREF.event_xref table for more updates.
 
-| ID  | Event                                                                              |
-|-----|------------------------------------------------------------------------------------|
-| 01  | [Home of parent (HMP)](BH_Data#Home_of_parent_(HMP) "wikilink")                    |
-| 02  | Kinship foster home                                                                |
-| 03  | Adoptive placement                                                                 |
-| 04  | [Traditional foster home](BH_Data#Traditional_foster_home_(TFH) "wikilink")        |
-| 05  | [Specialized foster home](BH_Data#Specialized_or_treatment_foster_home "wikilink") |
-| 06  | [Group home](BH_Data#Group_home_(GH) "wikilink")                                   |
-| 07  | [Institution](BH_Data#Institution "wikilink")                                      |
-| 08  | Adoption subsidy                                                                   |
-| 09  | [Independent living](BH_Data#Independent_living "wikilink")                        |
-| 10  | Subsidized guardianship                                                            |
-| 11  | [Emergency shelter](BH_Data#Emergency_shelter "wikilink")                          |
-| 12  | [Emergency foster home](BH_Data#Emergency_foster_home_(EFH) "wikilink")            |
-| 13  | Runaway (RNY), Abducted (ABD), Unknown contact (WCC), Whereabouts                  |
-| 14  | Detention/institution (DET, IDC)                                                   |
-| 15  | Unauthorized home of parent (UAH), Unauthorized placement (UAP)                    |
-| 16  | Deceased (DEC)                                                                     |
-| 17  | Hospital/healthcare facility (HHF)                                                 |
-| 18  | College university scholarship (CUS), Job training                                 |
-| 19  | Armed service duty (ASD), Other (OTH), Unknown (UN                                 |
-| 20  | Hospital facility medical (HFM)                                                    |
-| 21  | Hospital facility psychiatric (HFP)                                                |
-| 22  | Private guardianship home (PGH)                                                    |
+| ID | Event                                                                              |
+|----|------------------------------------------------------------------------------------|
+| 01 | [Home of parent (HMP)](BH_Data#Home_of_parent_(HMP) "wikilink")                    |
+| 02 | Kinship foster home                                                                |
+| 03 | Adoptive placement                                                                 |
+| 04 | [Traditional foster home](BH_Data#Traditional_foster_home_(TFH) "wikilink")        |
+| 05 | [Specialized foster home](BH_Data#Specialized_or_treatment_foster_home "wikilink") |
+| 06 | [Group home](BH_Data#Group_home_(GH) "wikilink")                                   |
+| 07 | [Institution](BH_Data#Institution "wikilink")                                      |
+| 08 | Adoption subsidy                                                                   |
+| 09 | [Independent living](BH_Data#Independent_living "wikilink")                        |
+| 10 | Subsidized guardianship                                                            |
+| 11 | [Emergency shelter](BH_Data#Emergency_shelter "wikilink")                          |
+| 12 | [Emergency foster home](BH_Data#Emergency_foster_home_(EFH) "wikilink")            |
+| 13 | Runaway (RNY), Abducted (ABD), Unknown contact (WCC), Whereabouts                  |
+| 14 | Detention/institution (DET, IDC)                                                   |
+| 15 | Unauthorized home of parent (UAH), Unauthorized placement (UAP)                    |
+| 16 | Deceased (DEC)                                                                     |
+| 17 | Hospital/healthcare facility (HHF)                                                 |
+| 18 | College university scholarship (CUS), Job training                                 |
+| 19 | Armed service duty (ASD), Other (OTH), Unknown (UN                                 |
+| 20 | Hospital facility medical (HFM)                                                    |
+| 21 | Hospital facility psychiatric (HFP)                                                |
+| 22 | Private guardianship home (PGH)                                                    |
 
 The BH indicators with event exclusions are shown in the table below.
 
@@ -1949,62 +1982,62 @@ abuse/neglect statistics. Springfield: Author. Retrieved from
 Table 1 shows which event is excluded from the definition of substitute
 care in each indicator (Indicators 2A through 2G).
 
-|     |                                                                                                                     | Initial Placement | End-of-Year Placement | Placement stability (CFSR) | Children Who Run Away from SC | Median Length of Stay in SC |
-|-----|---------------------------------------------------------------------------------------------------------------------|-------------------|-----------------------|----------------------------|-------------------------------|-----------------------------|
-|     |                                                                                                                     | 2A & 2C           | 2B & 2D               | 2E                         | 2F                            | 2G                          |
-| 01  | Home of parent (HMP)                                                                                                |                   |                       | x                          |                               |                             |
-| 02  | Kinship foster home                                                                                                 |                   |                       |                            |                               |                             |
-| 03  | Adoptive placement                                                                                                  | x                 | x                     |                            | x                             | x                           |
-| 04  | Traditional foster home                                                                                             |                   |                       |                            |                               |                             |
-| 05  | Specialized foster home                                                                                             |                   |                       |                            |                               |                             |
-| 06  | Group home                                                                                                          |                   |                       |                            |                               |                             |
-| 07  | Institution                                                                                                         |                   |                       |                            |                               |                             |
-| 08  | Adoption subsidy                                                                                                    |                   |                       | x                          |                               |                             |
-| 09  | Independent living                                                                                                  | x                 | x                     |                            | x                             | x                           |
-| 10  | Subsidized guardianship                                                                                             | x                 | x                     | x                          | x                             | x                           |
-| 11  | Emergency shelter                                                                                                   |                   |                       |                            |                               |                             |
-| 12  | Emergency foster care                                                                                               |                   |                       |                            |                               |                             |
-| 13  | Runaway (RNY), Abducted (ABD), Unknown contact (WCC), Whereabouts unknown (WUK)                                     | x                 | x                     |                            | x                             | x                           |
-| 14  | Detention/institution (DET, IDC)                                                                                    |                   |                       |                            |                               |                             |
-| 15  | Unauthorized home of parent (UAH), Unauthorized placement (UAP)                                                     | x                 | x                     |                            | x                             | x                           |
-| 16  | Deceased (DEC)                                                                                                      | x                 | x                     | x                          | x                             | x                           |
-| 17  | Hospital/healthcare facility (HHF)                                                                                  | x                 | x                     |                            | x                             | x                           |
-| 18  | College university scholarship (CUS), Job training program (JTP), Youth in college (YIC), Youth in employment (YIE) | x                 | x                     | x                          | x                             | x                           |
-| 19  | Armed service duty (ASD), Other (OTH), Unknown (UNK)                                                                | x                 | x                     | x                          | x                             | x                           |
-| 20  | Hospital facility medical (HFM)                                                                                     | x                 | x                     |                            | x                             | x                           |
-| 21  | Hospital facility psychiatric (HFP)                                                                                 | x                 | x                     |                            | x                             | x                           |
-| 22  | Private guardianship home (PGH)                                                                                     |                   |                       | x                          |                               |                             |
+|    |                                                                                                                     | Initial Placement | End-of-Year Placement | Placement stability (CFSR) | Children Who Run Away from SC | Median Length of Stay in SC |
+|----|---------------------------------------------------------------------------------------------------------------------|-------------------|-----------------------|----------------------------|-------------------------------|-----------------------------|
+|    |                                                                                                                     | 2A & 2C           | 2B & 2D               | 2E                         | 2F                            | 2G                          |
+| 01 | Home of parent (HMP)                                                                                                |                   |                       | x                          |                               |                             |
+| 02 | Kinship foster home                                                                                                 |                   |                       |                            |                               |                             |
+| 03 | Adoptive placement                                                                                                  | x                 | x                     |                            | x                             | x                           |
+| 04 | Traditional foster home                                                                                             |                   |                       |                            |                               |                             |
+| 05 | Specialized foster home                                                                                             |                   |                       |                            |                               |                             |
+| 06 | Group home                                                                                                          |                   |                       |                            |                               |                             |
+| 07 | Institution                                                                                                         |                   |                       |                            |                               |                             |
+| 08 | Adoption subsidy                                                                                                    |                   |                       | x                          |                               |                             |
+| 09 | Independent living                                                                                                  | x                 | x                     |                            | x                             | x                           |
+| 10 | Subsidized guardianship                                                                                             | x                 | x                     | x                          | x                             | x                           |
+| 11 | Emergency shelter                                                                                                   |                   |                       |                            |                               |                             |
+| 12 | Emergency foster care                                                                                               |                   |                       |                            |                               |                             |
+| 13 | Runaway (RNY), Abducted (ABD), Unknown contact (WCC), Whereabouts unknown (WUK)                                     | x                 | x                     |                            | x                             | x                           |
+| 14 | Detention/institution (DET, IDC)                                                                                    |                   |                       |                            |                               |                             |
+| 15 | Unauthorized home of parent (UAH), Unauthorized placement (UAP)                                                     | x                 | x                     |                            | x                             | x                           |
+| 16 | Deceased (DEC)                                                                                                      | x                 | x                     | x                          | x                             | x                           |
+| 17 | Hospital/healthcare facility (HHF)                                                                                  | x                 | x                     |                            | x                             | x                           |
+| 18 | College university scholarship (CUS), Job training program (JTP), Youth in college (YIC), Youth in employment (YIE) | x                 | x                     | x                          | x                             | x                           |
+| 19 | Armed service duty (ASD), Other (OTH), Unknown (UNK)                                                                | x                 | x                     | x                          | x                             | x                           |
+| 20 | Hospital facility medical (HFM)                                                                                     | x                 | x                     |                            | x                             | x                           |
+| 21 | Hospital facility psychiatric (HFP)                                                                                 | x                 | x                     |                            | x                             | x                           |
+| 22 | Private guardianship home (PGH)                                                                                     |                   |                       | x                          |                               |                             |
 
 ### Table 2: Event Excluded from Substitute Care: Indicators 3A/C/E, 3B, and 3DF
 
 Table 2 shows which event is excluded from the definition of substitute
 care in Indicators 3A/C/E, 3B and 3DF.
 
-|     |                                                                                                                     | Permanency (Reunification/Adoption/Guardianship) | Stability (Reunification) | Stability (Adoption/Guardianship) |
-|-----|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|---------------------------|-----------------------------------|
-|     |                                                                                                                     | 3ACE                                             | 3B                        | 3DF                               |
-| 01  | Home of parent (HMP)                                                                                                |                                                  | x                         |                                   |
-| 02  | Kinship foster home                                                                                                 |                                                  |                           |                                   |
-| 03  | Adoptive placement                                                                                                  | x                                                | x                         |                                   |
-| 04  | Traditional foster home                                                                                             |                                                  |                           |                                   |
-| 05  | Specialized foster home                                                                                             |                                                  |                           |                                   |
-| 06  | Group home                                                                                                          |                                                  |                           |                                   |
-| 07  | Institution                                                                                                         |                                                  |                           |                                   |
-| 08  | Adoption subsidy                                                                                                    |                                                  | x                         |                                   |
-| 09  | Independent living                                                                                                  | x                                                | x                         | x                                 |
-| 10  | Subsidized guardianship                                                                                             | x                                                | x                         |                                   |
-| 11  | Emergency shelter                                                                                                   |                                                  |                           |                                   |
-| 12  | Emergency foster care                                                                                               |                                                  |                           |                                   |
-| 13  | Runaway (RNY), Abducted (ABD), Unknown contact (WCC), Whereabouts unknown (WUK)                                     | x                                                | x                         | x                                 |
-| 14  | Detention/institution (DET, IDC)                                                                                    |                                                  |                           |                                   |
-| 15  | Unauthorized home of parent (UAH), Unauthorized placement (UAP)                                                     | x                                                |                           | x                                 |
-| 16  | Deceased (DEC)                                                                                                      | x                                                | x                         | x                                 |
-| 17  | Hospital/healthcare facility (HHF)                                                                                  | x                                                |                           | x                                 |
-| 18  | College university scholarship (CUS), Job training program (JTP), Youth in college (YIC), Youth in employment (YIE) | x                                                | x                         | x                                 |
-| 19  | Armed service duty (ASD), Other (OTH), Unknown (UNK)                                                                | x                                                | x                         | x                                 |
-| 20  | Hospital facility medical (HFM)                                                                                     | x                                                |                           | x                                 |
-| 21  | Hospital facility psychiatric (HFP)                                                                                 | x                                                |                           | x                                 |
-| 22  | Private guardianship home (PGH)                                                                                     | x                                                | x                         |                                   |
+|    |                                                                                                                     | Permanency (Reunification/Adoption/Guardianship) | Stability (Reunification) | Stability (Adoption/Guardianship) |
+|----|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|---------------------------|-----------------------------------|
+|    |                                                                                                                     | 3ACE                                             | 3B                        | 3DF                               |
+| 01 | Home of parent (HMP)                                                                                                |                                                  | x                         |                                   |
+| 02 | Kinship foster home                                                                                                 |                                                  |                           |                                   |
+| 03 | Adoptive placement                                                                                                  | x                                                | x                         |                                   |
+| 04 | Traditional foster home                                                                                             |                                                  |                           |                                   |
+| 05 | Specialized foster home                                                                                             |                                                  |                           |                                   |
+| 06 | Group home                                                                                                          |                                                  |                           |                                   |
+| 07 | Institution                                                                                                         |                                                  |                           |                                   |
+| 08 | Adoption subsidy                                                                                                    |                                                  | x                         |                                   |
+| 09 | Independent living                                                                                                  | x                                                | x                         | x                                 |
+| 10 | Subsidized guardianship                                                                                             | x                                                | x                         |                                   |
+| 11 | Emergency shelter                                                                                                   |                                                  |                           |                                   |
+| 12 | Emergency foster care                                                                                               |                                                  |                           |                                   |
+| 13 | Runaway (RNY), Abducted (ABD), Unknown contact (WCC), Whereabouts unknown (WUK)                                     | x                                                | x                         | x                                 |
+| 14 | Detention/institution (DET, IDC)                                                                                    |                                                  |                           |                                   |
+| 15 | Unauthorized home of parent (UAH), Unauthorized placement (UAP)                                                     | x                                                |                           | x                                 |
+| 16 | Deceased (DEC)                                                                                                      | x                                                | x                         | x                                 |
+| 17 | Hospital/healthcare facility (HHF)                                                                                  | x                                                |                           | x                                 |
+| 18 | College university scholarship (CUS), Job training program (JTP), Youth in college (YIC), Youth in employment (YIE) | x                                                | x                         | x                                 |
+| 19 | Armed service duty (ASD), Other (OTH), Unknown (UNK)                                                                | x                                                | x                         | x                                 |
+| 20 | Hospital facility medical (HFM)                                                                                     | x                                                |                           | x                                 |
+| 21 | Hospital facility psychiatric (HFP)                                                                                 | x                                                |                           | x                                 |
+| 22 | Private guardianship home (PGH)                                                                                     | x                                                | x                         |                                   |
 
 ## Traditional foster home (TFH)
 
