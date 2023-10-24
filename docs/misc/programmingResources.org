@@ -68,12 +68,9 @@ instruction alone.
 :PROPERTIES:
 :CUSTOM_ID: see-also
 :END:
-[[https://www.python-graph-gallery.com/][Python Graph Gallery]] A
-collection of charts made with Python, including source code.
+[[https://www.python-graph-gallery.com/][Python Graph Gallery]] A collection of charts made with Python, including source code.
 
-[[https://www.python.org/dev/peps/pep-0008/][PEP 8]] Style guide for
-Python code (following this has been statistically proven to greatly
+[[https://www.python.org/dev/peps/pep-0008/][PEP 8]] Style guide for Python code (following this has been statistically proven to greatly
 reduce workplace violence).
 
-[[https://github.com/cfrc-uiuc/cfrctoolbox/][cfrctoolbox]] Project for
-CFRC-specific Python tools, such as database connection functions.
+[[https://github.com/cfrc-uiuc/cfrctoolbox/][cfrctoolbox]] Project for CFRC-specific Python tools, such as database connection functions.
