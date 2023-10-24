@@ -1,4 +1,5 @@
-* Database Server Addressing #+options: \n:t
+#+options: \n:t
+* Database Server Addressing
 
 This section lists Fully Qualified Domain Names for database servers.
 
