@@ -19,7 +19,7 @@
 
 ## Codebooks
 [APAL Survey Codebook](codebooks/APAL_Codebook.pdf)  
-[CHILD Documentation (May 2018 Draft)](codebooks/CHILD Documentation 20180525.pdf)  
+[CHILD Documentation (May 2018 Draft)](codebooks/CHILD\ Documentation\ 20180525.pdf)  
 [DCFS Integrated Database Map (2011)](codebooks/Data_Map_revised3.pdf)  
 
 ## Style Books
