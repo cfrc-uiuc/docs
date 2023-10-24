@@ -1,12 +1,6 @@
-#+begin_html
-  <h4 style="color:red;">
-#+end_html
-
+#+HTML:<h4 style="color:red;">
 DRAFT
-
-#+begin_html
-  </h4>
-#+end_html
+#+HTML:  </h4>
 
 Virtual Desktops for statistics running Linux is available for SAS and
 Python.
@@ -100,8 +94,10 @@ program.
 
 An example /includes.sas/:
 
-=   %let user = &SYSUSERID;=
-=   %let path = /home/&user/media/disk/_home_&user/path/to/SAS/programs/;=
+#+BEGIN_SRC bash
+%let user = &SYSUSERID;
+%let path = /home/&user/media/disk/_home_&user/path/to/SAS/programs/;
+#+END_SRC
 
 ** .sasv9.cfg
 :PROPERTIES:
