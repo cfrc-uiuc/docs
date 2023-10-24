@@ -2,8 +2,8 @@
 
 ## General Topics
 
-[BH Data](docs/BH_Data.md)
-[DCFS Data Changelog](docs/Changelog.md)
+[BH Data](docs/BH_Data.md)  
+[DCFS Data Changelog](docs/Changelog.md)  
 [DCFS Database Status](docs/data/Databases.md)  
 [Geocoding](docs/docs/Databases.md#Geocoding)  
 [Virtual Desktop for Statistics](docs/VirtualDesktop.md)  
