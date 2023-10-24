@@ -9,7 +9,7 @@ Python.
 :END:
 Start by opening X2Go, and selecting *Session* > *New session*.
 
-[[../../imgs/Screenshot_20220623_092920.jpg]]
+[[../../imgs/Screenshot_20220623_092920.png]]
 
 This will open a new window to configure your new session. On the
 /Session/ tab, make sure to add:
