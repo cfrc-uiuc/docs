@@ -2,7 +2,8 @@
 :PROPERTIES:
 :CUSTOM_ID: git
 :END:
-[[https://jeffkreeftmeijer.com/git-flow/][Using "git-flow" to automate your git branching workflow]] (While using "git-flow" really isn't necessary, this article provides a useful introduction for the following)
+[[https://jeffkreeftmeijer.com/git-flow/][Using "git-flow" to automate your git branching workflow]] \\
+(While using "git-flow" really isn't necessary, this article provides a useful introduction for the following)
 
 [[https://nvie.com/posts/a-successful-git-branching-model/][A successful Git branching model]]
 
