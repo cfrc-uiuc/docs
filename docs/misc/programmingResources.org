@@ -32,24 +32,23 @@ instruction alone.
 :PROPERTIES:
 :CUSTOM_ID: python-statistical-libraries
 :END:
-[[https://www.w3schools.com/python/pandas/default.asp][Pandas]]
-[[https://www.w3schools.com/python/numpy/default.asp][NumPy]]
-[[https://www.w3schools.com/python/scipy/index.php][SciPy]]
-[[https://geopandas.org/en/stable/][Geopandas]]
+- [[https://www.w3schools.com/python/pandas/default.asp][Pandas]]
+- [[https://www.w3schools.com/python/numpy/default.asp][NumPy]]
+- [[https://www.w3schools.com/python/scipy/index.php][SciPy]]
+- [[https://geopandas.org/en/stable/][Geopandas]]
 
 *** Python Graphing
 :PROPERTIES:
 :CUSTOM_ID: python-graphing
 :END:
-[[https://www.w3schools.com/python/matplotlib_intro.asp][Matplotlib]]
-[[https://bokeh.org/][Bokeh]]
+- [[https://www.w3schools.com/python/matplotlib_intro.asp][Matplotlib]]
+- [[https://bokeh.org/][Bokeh]]
 
 *** GIS
 :PROPERTIES:
 :CUSTOM_ID: gis
 :END:
-[[https://automating-gis-processes.github.io/CSC18/lessons/L1/Intro-Python-GIS.html][Introduction
-to Python GIS]]
+- [[https://automating-gis-processes.github.io/CSC18/lessons/L1/Intro-Python-GIS.html][Introduction to Python GIS]]
 
 ** IDEs (Integrated Development Environment)
 :PROPERTIES:
