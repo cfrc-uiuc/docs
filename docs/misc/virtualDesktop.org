@@ -1,6 +1,4 @@
-#+HTML: <h4 style="color:red;">
-DRAFT
-#+HTML:  </h4>
+* [DRAFT]
 
 Virtual Desktops for statistics running Linux is available for SAS and
 Python.
@@ -11,23 +9,7 @@ Python.
 :END:
 Start by opening X2Go, and selecting *Session* > *New session*.
 
-#+begin_html
-  <figure>
-#+end_html
-
-#+begin_html
-  <figcaption aria-hidden="true">
-#+end_html
-
-Screenshot_20220623_092920.jpg
-
-#+begin_html
-  </figcaption>
-#+end_html
-
-#+begin_html
-  </figure>
-#+end_html
+[[file::../../imgs/Screenshot_20220623_092920.jpg]]
 
 This will open a new window to configure your new session. On the
 /Session/ tab, make sure to add:
