@@ -2,16 +2,16 @@
 
 This section lists Fully Qualified Domain Names for database servers.
 
-*Research Databases*
+*Research Databases* \\
 db0.cfrc.illinois.edu db1.cfrc.illinois.edu
 
-*Web Database*
+*Web Database* \\
 db6.cfrc.illinois.edu
 
-*Archive Database (archived projects)*
+*Archive Database (archived projects)* \\
 db2.cfrc.illinois.edu
 
-*Faculty Database*
+*Faculty Database* \\
 db3.cfrc.illinois.edu
 
 * DCFS Databases
@@ -19,9 +19,9 @@ db3.cfrc.illinois.edu
 Current statuses of DCFS databases:
 
 *DCFS_PROD:* June 30, 2023 \\
-*DCFS_DEV:* September 30, 2023
-*DCFS_ANNUAL:* BH2023 (Extraction: December 31, 2022)
-*DCFS_STABLE:* Mystery.
+*DCFS_DEV:* September 30, 2023 \\
+*DCFS_ANNUAL:* BH2023 (Extraction: December 31, 2022) \\
+*DCFS_STABLE:* Mystery. \\
 
 ** # Changelog
 
