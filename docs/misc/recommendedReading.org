@@ -7,19 +7,3 @@
 [[https://nvie.com/posts/a-successful-git-branching-model/][A successful Git branching model]]
 
 [[https://www.derekgourlay.com/blog/git-when-to-merge-vs-when-to-rebase/][When to Merge vs. When to Rebase]]
-
-*** SAS
-:PROPERTIES:
-:CUSTOM_ID: sas
-:END:
-[[http://wiki.cfrc.illinois.edu/codebooks/ad121.pdf][PROC SQL for DATA Step Die-Hards]]
-
-[[http://wiki.cfrc.illinois.edu/documents/Tips_SASonLinux_editing.pdf][SAS on Unix/Linux]]
-
-*** Python
-:PROPERTIES:
-:CUSTOM_ID: python
-:END:
-[[https://towardsdatascience.com/beginners-guide-to-transition-from-sas-to-python-fcd17438a7a6][Beginner's Guide to Transition from SAS to Python]]
-
-[[http://wiki.cfrc.illinois.edu/codebooks/PythonizingSasProgrammer.pdf][Pythonizing the SAS Programmer]]

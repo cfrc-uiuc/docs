@@ -17,6 +17,11 @@
 [SAS](docs/sas/index.md )  
 [Password Reset Checklist](docs/misc/passwordResetChecklist.md)  
 
+## Codebooks
+[APAL Survey Codebook](codebooks/APAL_Codebook.pdf)  
+[CHILD Documentation (Draft - May 2018)](codebooks/CHILD Documentation 20180525.pdf)  
+[DCFS Integrated Database Map (2011)](codebooks/Data_Map_revised3.pdf)  
+
 ## Style Books
 
 [CFRC Style Book](docs/styebooks/cfrcStyleBook.md)  
