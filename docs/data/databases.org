@@ -295,7 +295,7 @@ quarter (i.e., The Q3 report will use Q4 data).
 - New table "sacwis.intake_event_nrt". See:
 [[https://gitlab.com/CFRC/CFRC/commit/a411ca4b540e58fefff12e457b8733a466a91700][a411ca4b]]
 - Time fields with a "tm_-" prefix (sacwis schema). See:
-[[https://gitlab.com/CFRC/CFRC/issues/12][https://gitlab.com/CFRC/CFRC/issues/12]],
+[[https://gitlab.com/CFRC/CFRC/issues/12][https://gitlab.com/CFRC/CFRC/issues/12]],\\ 
 [[https://gitlab.com/CFRC/CFRC/commit/246a10306d4a2500e80ac3836a758269541a2df7][246a1030]]
 
 ### Added – DCFS_STABLE
