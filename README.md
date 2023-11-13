@@ -28,7 +28,7 @@
 
 ## Style Books
 
-[CFRC Style Book](docs/styebooks/cfrcStyleBook.md)  
+[CFRC Style Book](docs/stylebooks/cfrcStyleBook.md)  
 
 ## Misc
 
