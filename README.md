@@ -42,3 +42,11 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to test your markdown.
+
+### Writing Markdown
+To properly use Markdown formatting, please refer to the official documentation:  
+[Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)  
+
+Alternatively, Org-mode syntax can also be used to create files in this documentation repository. Org-Mode Markdown is a less-widely used (but arguably more intuitive) Markdown language generally used with Emacs, but still supported by several text editors. While this version of Markdown is supported (and used in this repository to some extend), it is generally better to use GitHub/GitLab-flavored Markdown due to it's wide adoption.  
+
+[Org Mode Quickstart](https://orgmode.org/quickstart.html)
