@@ -30,8 +30,7 @@ For details about BH data, the Maltreatment in Care dashboard, and more things B
 [Password Reset Checklist](docs/misc/passwordResetChecklist.md)  
 [Programming Resources](docs/misc/programmingResources.org)  
 [Recommended Reading](docs/misc/recommendedReading.org)  
-[SAS](docs/sas/README.md )  
-[SAS Encoding](docs/sas/sasEncoding.md)  
+[SAS & SAS Configuration](docs/sas/README.md )  
 [Virtual Desktop for Statistics](docs/misc/virtualDesktop.org)  
 
 ## Style Books
