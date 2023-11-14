@@ -35,3 +35,10 @@
 [Desktop Tips](docs/misc/desktopTips.org)  
 [Recommended Reading](docs/misc/recommendedReading.org)  
 [Programming Resources](docs/misc/programmingResources.org)  
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to test your markdown.
