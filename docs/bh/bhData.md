@@ -73,6 +73,7 @@ Tables in BH_IND Schema
 The table below presents the indicator name, programming file, and the
 data table used for creating the indicator. Each indicator-specific
 table is saved in the BH_IND schema.
+
 | Indicator name                                                           | Programming file            | BH database table |
 |--------------------------------------------------------------------------|-----------------------------|-------------------|
 | Maltreatment Recurrence                                                  | ind1ac_cfsr_malt_recur      | cps_alleg         |
