@@ -1925,6 +1925,7 @@ abuse/neglect statistics. Springfield: Author. Retrieved from
   otherwise exited (see the *censor* column in the *master_spell_legal*
   table). If the case is still open and the child is still under a DCFS
   legal custody, the censor of the spell is "Still in care."
+- Legal spell is created from table lgc.cftvcm9400. lgl_stat_cd that defines that a child is under DCFS custody includes 'AR' (ADOPTIVE RIGHTS), 'GO'(GUARDIANSHIP ONLY), 'PC'(PROTECTIVE CUSTODY), 'SB'(SURRENDER BOTH PARENTS), 'TR'(TEMP CUST W/RIGHT TO CONSENT), 'TW'(TEMP CUST W/O RIGHT TO CONSENT). lgl_stat_cd='NO' marks legal exit.
 - One of the BH measures, length of stay is calculated for the first
   spell after a child was placed in a substitute care. See [Indicator:
   median length of stay in substitute
