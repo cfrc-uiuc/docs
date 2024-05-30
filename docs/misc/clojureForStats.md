@@ -9,7 +9,7 @@ parent: Miscellaneous
 Clojure Tools (tools.deps) is a collection of Clojure command line utilities for developing with Clojure. This fills the same role (more or less) as Leiningen, which is an unofficial build/development tool for Clojure. While Leiningen is a great tool, tools.deps will be covered here as it is easier to load dependencies directly from Git platforms (as opposed to compiled jar files on Clojars or Maven Central).
 
 ### Installation
-To install Clojure CLI, see the official instructions: https://clojure.org/guides/install_clojure
+To install Clojure CLI, see the official instructions: [https://clojure.org/guides/install\_clojure](https://clojure.org/guides/install_clojure)
 
 ## Creating a project folder
 A basic project folder really only needs a `src` directory and a `deps.edn` file. A `config.edn` may be needed if using the [clj-toolbox](https://github.com/cfrc-uiuc/clj-toolbox) library.
