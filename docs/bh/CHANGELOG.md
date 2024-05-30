@@ -1,8 +1,11 @@
-<h1>
+---
+layout: default
+title: BH Changelog
+parent: BH
+nav_order: 1
+---
 
-BH Data
-
-</h1>
+# BH Data
 
 ### FY2020 (July 2019 - June 2020)
 

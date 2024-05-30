@@ -1,3 +1,10 @@
+---
+layout: default
+title: SAS Includes
+parent: SAS
+nav_order: 3
+---
+
 SAS can be configured to run SAS programs any time SAS is loaded. This
 can be useful for things like setting global variables for all programs
 automatically. This has been setup on CFRC Linux workstations

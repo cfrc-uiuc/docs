@@ -1,3 +1,11 @@
+---
+layout: default
+title: Desktop Tips
+parent: Miscellaneous
+nav_order: 1
+---
+
+
 This is just a place to record useful computer/desktop tips and tricks.
 
 ## Linux

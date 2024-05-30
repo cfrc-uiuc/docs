@@ -1,3 +1,10 @@
+---
+layout: default
+title: Programming Resources
+parent: Miscellaneous
+nav_order: 4
+---
+
 # Programming Resources
 
 This is a continuation of the README file from the old "pylearn" git

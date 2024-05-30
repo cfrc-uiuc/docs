@@ -1,3 +1,10 @@
+---
+layout: default
+title: SAS Encoding
+parent: SAS
+nav_order: 2
+---
+
 ## SAS and Latin1 Encoding
 
 SAS has some difficulty working with text fields when using *UTF-8*

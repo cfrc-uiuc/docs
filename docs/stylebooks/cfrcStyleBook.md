@@ -1,4 +1,10 @@
-## The CFRC Style Book
+---
+layout: default
+title: Codebooks
+nav_order: 5
+---
+
+# The CFRC Style Book
 
 ### A-M
 

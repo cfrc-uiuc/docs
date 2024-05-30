@@ -1,3 +1,10 @@
+---
+layout: default
+title: A Git Branching Naming Convention
+parent: Miscellaneous
+nav_order: 2
+---
+
 Branch names will structured with the following format:
 "category/project/branch-name"
 

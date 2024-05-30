@@ -16,7 +16,6 @@ For details about BH data, the Maltreatment in Care dashboard, and more things B
 ## Codebooks
 [APAL Survey Codebook](codebooks/APAL_Codebook.pdf)  
 [CHILD Documentation (May 2018 Draft)](codebooks/CHILD_Documentation_20180525.pdf)  
-[Desktop Tips](docs/misc/desktopTips.md)  
 [Integrated Database Map (2011)](codebooks/Data_Map_revised3.pdf)  
 [Integrated Database Map (2014)](codebooks/Data_Map_updated_2014.pdf)  
 [Integrated Database Codebook (2003)](codebooks/DCFS_DD120803.pdf)  
@@ -26,6 +25,7 @@ For details about BH data, the Maltreatment in Care dashboard, and more things B
 
 ## Technical Documentation
 [Databases & Data Access](docs/data/README.md)   
+[Desktop Tips](docs/misc/desktopTips.md)  
 [Git Branch Naming](docs/misc/gitBranchNamingConvention.md)  
 [Password Reset Checklist](docs/misc/passwordResetChecklist.md)  
 [Programming Resources](docs/misc/programmingResources.md)  

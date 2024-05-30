@@ -1,3 +1,11 @@
+---
+layout: default
+title: SAS Credentials
+parent: SAS
+nav_order: 1
+---
+
+
 SAS has the ability to connect to data sources stored in various
 relational database backends. To connect to these databases, appropriate
 database credentials are needed.

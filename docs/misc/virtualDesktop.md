@@ -1,3 +1,10 @@
+---
+layout: default
+title: Virtual Desktops
+parent: Miscellaneous
+nav_order: 6
+---
+
 # \[DRAFT\]
 
 Virtual Desktops for statistics running Linux is available for SAS and

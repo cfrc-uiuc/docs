@@ -6,7 +6,7 @@ nav_order: 4
 ---
 # Postgresql Commit Timestamps
 
-A feature called "track<sub>committimestamp</sub>" has been enabled for
+A feature called "track_commit_timestamp" has been enabled for
 our primary PostgreSQL database server. While PostgreSQL does not track
 the creation times of database objects, this feature will allow you to
 determine exactly when a given record was inserted into a table.
