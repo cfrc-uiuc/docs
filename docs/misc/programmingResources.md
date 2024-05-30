@@ -23,6 +23,10 @@ instruction alone.
 - [MIT's 6.0001 - Intro to Computer Science and Programming in
   Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
+### Clojure Propaganda
+- [Clojure For The Brave And True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
+- [Data Science in Clojure](https://scicloj.github.io/)
+
 ### General Python Introduction
 
 [Python Tutorial](https://www.w3schools.com/python/default.asp)
