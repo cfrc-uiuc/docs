@@ -1,1 +1,6 @@
+title: CFRC Documentation
 remote_theme: just-the-docs/just-the-docs
+aux_links:
+  "CFRC Documentation on GitHub":
+    - "//github.com/cfrc-uiuc/docs"
+repository: cfrc-uiuc/docs
