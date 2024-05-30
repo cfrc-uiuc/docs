@@ -14,7 +14,7 @@ To install Clojure CLI, see the official instructions: [https://clojure.org/guid
 ## Creating a project folder
 A basic project folder really only needs a `src` directory and a `deps.edn` file. A `config.edn` may be needed if using the [clj-toolbox](https://github.com/cfrc-uiuc/clj-toolbox) library.
 
-```Bash
+```shell
 $ mkdir test-project
 $ cd test-project
 $ mkdir -p src/test_project # Note this is a "_", not a "-"
@@ -25,7 +25,7 @@ $ touch config.edn
 
 If using clj-toolbox, edit deps.edn to add clj-toolbox to the dependency map. Be sure to alter the below information to include the latest version of clj-toolbox:
 
-```Clojure
+```clojure
 {:paths ["src"]
  :deps {
         io.github.cfrc-uiuc/clj-toolbox {:git/url "git+ssh://git@github.com/cfrc-uiuc/clj-toolbox"
@@ -37,7 +37,7 @@ If using clj-toolbox, edit deps.edn to add clj-toolbox to the dependency map. Be
 
 You may also need to edit config.edn to add credential information for clj-toolbox (see the clj-toolbox repository's `config.edn.example`):
 
-```Clojure
+```clojure
 {
 :db-spec {
          :user ""
@@ -48,7 +48,7 @@ You may also need to edit config.edn to add credential information for clj-toolb
 
 Lastly, create your primary namespace file, such as `src/test_project/core.clj`:
 
-```Clojure
+```clojure
 (ns test-project.core
     (:gen-class)
     (:require [clj-toolbox.core :as tb]
