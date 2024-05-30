@@ -2,7 +2,6 @@
 layout: default
 title: Recommended Reading
 parent: Miscellaneous
-nav_order: 5
 ---
 
 ### Git

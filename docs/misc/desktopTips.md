@@ -2,7 +2,6 @@
 layout: default
 title: Desktop Tips
 parent: Miscellaneous
-nav_order: 1
 ---
 
 

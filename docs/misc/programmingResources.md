@@ -2,7 +2,6 @@
 layout: default
 title: Programming Resources
 parent: Miscellaneous
-nav_order: 4
 ---
 
 # Programming Resources

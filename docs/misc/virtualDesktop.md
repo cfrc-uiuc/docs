@@ -2,7 +2,6 @@
 layout: default
 title: Virtual Desktops
 parent: Miscellaneous
-nav_order: 6
 ---
 
 # \[DRAFT\]

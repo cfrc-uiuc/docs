@@ -2,7 +2,6 @@
 layout: default
 title: Password Reset Checklist
 parent: Miscellaneous
-nav_order: 3
 ---
 
 [DRAFT]
