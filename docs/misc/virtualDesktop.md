@@ -1,20 +1,18 @@
-* [DRAFT]
+# \[DRAFT\]
 
 Virtual Desktops for statistics running Linux is available for SAS and
 Python.
 
-* X2Go Setup
-:PROPERTIES:
-:CUSTOM_ID: x2go-setup
-:END:
-Start by opening X2Go, and selecting *Session* > *New session*.
+# X2Go Setup
 
-[[../../imgs/Screenshot_20220623_092920.png]]
+Start by opening X2Go, and selecting **Session** \> **New session**.
+
+![](../../imgs/Screenshot_20220623_092920.png)
 
 This will open a new window to configure your new session. On the
-/Session/ tab, make sure to add:
+*Session* tab, make sure to add:
 
-- Session name: Choose a specific name...
+- Session name: Choose a specific name…
 - Host: cfrc-vm06.cfrc.illinois.edu (OR cfrc-vm07.cfrc.illinois.edu)
 
 Pick only one, but you may want to set up a new session for each host.
@@ -26,11 +24,11 @@ Pick only one, but you may want to set up a new session for each host.
   - XFCE
   - Custom Desktop (Enter "openbox-kde-session") in the "Command" field.
 
-On the /Connection/ tab: Set the speed accordingly. If you are on
+On the *Connection* tab: Set the speed accordingly. If you are on
 campus, set this to "LAN". If you are off campus, "ADSL" or "WAN" may be
 better optiions.
 
-/Input/Output/ tab:
+*Input/Output* tab:
 
 - Set display DPI:
 
@@ -40,12 +38,12 @@ good choices if you desire this effect.
 
 - Xinerama extension: Checked
 
-/Media/ tab:
+*Media* tab:
 
 - Sound:
   - Enable sound support: unchecked
 
-/Shared folders/:
+*Shared folders*:
 
 - Folders: Here, you will want to add any local folders that you wish to
   access on the virtual machine. One option is to add your entire home
@@ -56,17 +54,13 @@ good choices if you desire this effect.
 
 Finish the configuration by clicking "OK".
 
-* SAS
-:PROPERTIES:
-:CUSTOM_ID: sas
-:END:
-** includes.sas
-:PROPERTIES:
-:CUSTOM_ID: includes.sas
-:END:
+# SAS
+
+## includes.sas
+
 You have a hidden folder in your home directory named ".sas". When SAS
 is loaded, "~/.sas/includes.sas" will be loaded in the background. In
-this /includes.sas/ file, you can execute SAS code that you may want to
+this *includes.sas* file, you can execute SAS code that you may want to
 be accessible when you run other programs. This may be useful for thinks
 like setting global variables.
 
@@ -74,17 +68,15 @@ In particular, this may help you access mounted folders on your local
 desktop from SAS without having to specify a long path in each SAS
 program.
 
-An example /includes.sas/:
+An example *includes.sas*:
 
-#+BEGIN_SRC bash
+``` bash
 %let user = &SYSUSERID;
 %let path = /home/&user/media/disk/_home_&user/path/to/SAS/programs/;
-#+END_SRC
+```
 
-** .sasv9.cfg
-:PROPERTIES:
-:CUSTOM_ID: sasv9.cfg
-:END:
+## .sasv9.cfg
+
 Please make use of a custom SAS configuration file, such as ~/.sasv9.cfg
 to specify a work directory. SAS by default will use /tmp to save your
 SAS work directory, but this causes problems on a shared system. It is
@@ -94,16 +86,14 @@ your SAS work directory to make sure it isn't growing too large. See the
 official SAS documentation for more information on acceptable SAS user
 configuration files.
 
-An emample /~/.sasv9.cfg/:
+An emample *~*.sasv9.cfg/:
 
-#+begin_src bash
+``` bash
 -WORK /SASWORK/
-#+end_src
+```
 
-* Git clients
-:PROPERTIES:
-:CUSTOM_ID: git-clients
-:END:
+# Git clients
+
 Git clients are installed on the virtual machines, but it is preferable
 to mount any git repositories and access git locally. This prevents you
 from having to forward SSH keys to the virtual machines.

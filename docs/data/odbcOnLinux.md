@@ -5,15 +5,13 @@ the ODBC driver, you will need to configure an appropriate ".odbc.ini"
 file. For your reference, a sample ".odbc.ini" file can be found at
 /share/odbc.ini.
 
-** Contents of odbc.ini
-:PROPERTIES:
-:CUSTOM_ID: contents-of-odbc.ini
-:END:
+## Contents of odbc.ini
+
 The data contained in this file is relatively simple and should be
 pretty straight forward. A working configuration for the OregonDR data
 can be seen below:
 
-#+begin_src bash
+``` bash
 [OregonDR]
 Driver = PostgreSQL
 Description = PostgreSQL Data Source
@@ -25,7 +23,9 @@ Database = OregonDR
 ReadOnly = yes
 Protocol = 9.4
 SSLmode = require
-#+end_src bash
+```
+
+bash
 
 An odbc.ini file may contain multiple ODBC connections. The name of the
 connection will appear in brackets before the connection parameters. In
@@ -34,32 +34,30 @@ these configuration parameters will be provided to you. All that you
 will need to change will be the "Username" and "Password" parameters,
 which should match your NetID username and password.
 
-** Location of odbc.ini
-:PROPERTIES:
-:CUSTOM_ID: location-of-odbc.ini
-:END:
+## Location of odbc.ini
+
 The odbc.ini file will need to be placed within the root of your home
 directory as a hidden file. In Linux, a file can be turned into a hidden
 file by placing a period (.) before the file name. An example path for
 your odbc.ini would be:
 
-#+begin_src bash
+``` bash
 /home/aburn02s/.odbc.ini
-#+end_src
+```
 
 A simple way of coping the odbc.ini file to the appropriate location in
 your home directory would be to run the following command (excluding the
-"$"):
+"\$"):
 
-#+begin_src bash
+``` bash
 $ cp /share/odbc.ini ~/.odbc.ini
-#+end_src
+```
 
 You will also want to change permissions on this file accordingly:
 
-#+begin_src bash
+``` bash
 $ chmod 600 ~/.odbc.ini
-#+end_src
+```
 
 From there, you could edit the file to contain your specific user
 credentials. Naturally, if you do not have access to the data source
