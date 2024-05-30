@@ -1,3 +1,10 @@
+---
+layout: default
+title: Database Server Addressing
+parent: Data & Data Access
+nav_order: 2
+---
+
 # Database Server Addressing
 
 This section lists Fully Qualified Domain Names for database servers.

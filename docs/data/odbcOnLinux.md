@@ -1,3 +1,11 @@
+---
+layout: default
+title: ODBC On Linux
+parent: Data & Data Access
+nav_order: 3
+---
+# ODBC On Linux
+
 For programs that do not have support for PostgreSQL directly, such as
 SPSS and Stata, ODBC drivers are needed. ODBC drivers are already
 installed on the SAS server. In order to connect to data sources using

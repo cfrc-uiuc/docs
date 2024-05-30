@@ -1,3 +1,10 @@
+---
+layout: default
+title: Database Storage Best Practices
+parent: Data & Data Access
+nav_order: 1
+---
+
 DRAFT
 
 ## Data Storage Best Practices
