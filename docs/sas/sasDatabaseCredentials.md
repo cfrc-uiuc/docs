@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAS Credentials
+title: SAS Database Credentials
 parent: SAS
 nav_order: 1
 ---

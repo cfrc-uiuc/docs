@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Codebooks
+title: CFRC Style Book
 nav_order: 5
 ---
 
