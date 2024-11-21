@@ -1,8 +1,9 @@
 # Racial/Ethnic Disproportionality in the Illinois Child Welfare System #
 ## FY2024 Report in Response to HB2914 ##
-### Racial/Ethnic Disproportionality Data for the Past Five Years (Subregion and Cook Region) ###
+### Disproportionality Data for the Past Five Years: Subregion and Cook Region ###
 <p>
-This page provides additional data on racial disproportionality in the Illinois Child Welfare System. Five years of data is included for the following subregions: Aurora, Rockford, Champaign, Peoria, Springfield, East St. Louis, and Marion. The Cook region included Cook North, Cook Central, and Cook South subregions. Please note - due to small group sizes for the Native American and Pacific Islander racial/ethnic groups, only 5 of the 7 racial/ethnic groups included in the FY2024 Report are reported (Black, White, Latinx, Asian, and Multiracial).
+This page provides additional FY2024 data on racial disproportionality in the Illinois Child Welfare System. Five years of data is included for the following subregions: Aurora, Rockford, Champaign, Peoria, Springfield, East St. Louis, and Marion. The Cook region included Cook North, Cook Central, and Cook South subregions. </p>
+<p>Due to small group sizes for the Native American and Pacific Islander racial/ethnic groups, only 5 of the 7 racial/ethnic groups included in the FY2024 Report are reported (Black, White, Latinx, Asian, and Multiracial).
 </p>
 <p>
 To access the data, please download the subregion file(s) and/or Cook region file listed below. Each file includes an index and a worksheet for each of the 44 indicator outcomes. After opening the file, choose the Index worksheet and click the indicator name you wish to view. That will take you to the indicator outcome for the 5 racial/ethnic groups over the past 5 years. 
