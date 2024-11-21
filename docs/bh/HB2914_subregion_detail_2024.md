@@ -9,7 +9,7 @@ This web page provides additional data on racial disproportionality in the Illin
 
 #### Subregions ####
 ####
-* Aurora
+* <a href="https://cloud.cfrc.illinois.edu/index.php/s/jAkqYD6nx8TpnjN"> Aurora </a>
 * Rockford
 * Champaign
 ####
