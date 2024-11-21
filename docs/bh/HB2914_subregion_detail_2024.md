@@ -24,9 +24,9 @@ To access the data, please download the subregion file(s) and/or Cook region fil
 * East St. Louis (4A)
 * Marion (5A)
 #### Region
-* Cook  
+* Cook
 
----  
+---
 
 #### __*Notes*__
 1. The numbers in this file are rounded to 2 decimal places for display purposes. 
