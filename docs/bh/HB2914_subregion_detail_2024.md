@@ -11,7 +11,7 @@ To access the data, please download the subregion file(s) or Cook region file li
 #### Subregions ####
 ####
 * <a href="https://cloud.cfrc.illinois.edu/index.php/s/jAkqYD6nx8TpnjN"> Aurora </a>(2A)
-* <a href="https://cloud.cfrc.illinois.edu/index.php/s/FaLCSPePgeXRFNn> Rockford" </a>(1A)
+* <a href="https://cloud.cfrc.illinois.edu/index.php/s/FaLCSPePgeXRFNn"> Rockford </a>(1A)
 * Champaign (3B)
 * Peoria (1B)
 * Springfield (3A)
