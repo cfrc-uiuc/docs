@@ -24,8 +24,10 @@ To access the data, please download the subregion file(s) and/or Cook region fil
 * East St. Louis (4A)
 * Marion (5A)
 #### Region
-* Cook
----
+* Cook  
+
+---  
+
 #### __*Notes*__
 1. The numbers in this file are rounded to 2 decimal places for display purposes. 
 2. If the number of children in a racial/ethnic group for an indicator was 20 or fewer or the base population for calculating an RDI was less than 0.1%, the RDI and the percentages used to compute the RDI are masked with an asterisk (*). This is because percentages based on small numbers are unreliable.
