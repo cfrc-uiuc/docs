@@ -1,3 +1,9 @@
+---
+layout: default
+title: Racial/Ethnic Disproportionality in the Illinois Child Welfare System
+parent: BH
+---
+
 # Racial/Ethnic Disproportionality in the Illinois Child Welfare System #
 ## FY2024 Report in Response to HB2914 ##
 ### Disproportionality Data for the Past Five Years: Subregion and Cook Region ###
