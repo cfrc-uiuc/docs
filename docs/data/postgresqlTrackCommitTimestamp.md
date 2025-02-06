@@ -2,7 +2,7 @@
 layout: default
 title: PostgreSQL Commit Timestamps
 parent: Data & Data Access
-nav_order: 4
+nav_order: 5
 ---
 # Postgresql Commit Timestamps
 
