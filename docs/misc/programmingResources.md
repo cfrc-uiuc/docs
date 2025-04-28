@@ -28,7 +28,7 @@ instruction alone.
 
 ### General Python Introduction
 
-[Python Tutorial](https://www.w3schools.com/python/default.asp)
+- [Python Tutorial](https://www.w3schools.com/python/default.asp)
 
 ### Python Statistical libraries
 
