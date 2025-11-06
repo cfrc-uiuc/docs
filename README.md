@@ -32,7 +32,7 @@ For details about BH data, the Maltreatment in Care dashboard, and more things B
 [Recommended Reading](docs/misc/recommendedReading.md)  
 [SAS & SAS Configuration](docs/sas/README.md )  
 [Virtual Desktop for Statistics](docs/misc/virtualDesktop.md)  
-[DBeaver Configuration](docs/misc/dbeaver.md)  
+[DBeaver Configuration](docs/data/dbeaver.md)  
 
 ## Style Books
 
