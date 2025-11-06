@@ -6,3 +6,4 @@
 [PostgreSQL Commit Timestamps](postgresqlTrackCommitTimestamp.md)  
 [ODBC on Linux](odbcOnLinux.md)  
 [ODBC on Windows](odbc.md)  
+[DBeaver Configuration](dbeaver.md)  
