@@ -12,9 +12,9 @@ After resetting your NetID Password:
 2.  Lock your screen
 3.  Unlock your screen and enter your new NetID Password
 4.  Open KWalletManager and select "Change Password" to change your
-    kwallet password
+    kwallet password (ONLY IF using NetID password/account for your computer, otherwise skip)
 5.  Open "Seahorse" and change any password keyrings listed to your new
-    NetID password (change all to be safe)
+    NetID password (change all to be safe) (ONLY IF using NetID password/account for your computer, otherwise skip)
 6.  Update your local Nextcloud Desktop client password (this will
     require you to log into the desktop application again)
 7.  Updated any SQL client passwords (DBeaver)
