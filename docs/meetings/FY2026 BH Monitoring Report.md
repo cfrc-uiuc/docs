@@ -3,15 +3,15 @@
 
 ### In attendance:   
 > In attendance: Jennifer Eblen-Manning, Tami Fuller, Barbara Greenspan, Ethan Allgood, Amanda Kelley, Mark Testa, Lina Millett, Heidi Mueller, 
-> Martin Nieto, Brian #### Rhodes, Stacy Short, Brian Dougherty, Aisha Davis, Shufen Wang, Morgan Atwood, Beth Solomon, Satomi Wakita 
-----
+> Martin Nieto, Brian Rhodes, Stacy Short, Brian Dougherty, Aisha Davis, Shufen Wang, Morgan Atwood, Beth Solomon, Satomi Wakita 
+---
 
 ### Notes 
-To complete the FY2026 BH Monitoring report by June 30, the CFRC needs to begin to work on it soon; in fact, we are already a bit behind schedule. It seems unlikely that we will reach consensus on the placement stability and permanency indicators in the next few weeks. Therefore, CFRC asked for guidance on next steps vis-à-vis the report, to avoid a repeat of what happened last year.
-A few potential options were identified:
-Option #1: Produce the FY2026 report using the current CFRC definitions for all indicators, including CFSR indicators.
-Option #2: Begin work on the FY2026 report and update all indicators except the CFSR indicators (as you know, CFRC includes many indicators in addition to the CFRC indicators). Continue to have discussions about remaining CFSR indicators and come to consensus about definitions.
-Option #3: Work on FY2026 until consensus is reached, with the expectation that the report will not be completed by June 30.
+To complete the FY2026 BH Monitoring report by June 30, the CFRC needs to begin to work on it soon; in fact, we are already a bit behind schedule. It seems unlikely that we will reach consensus on the placement stability and permanency indicators in the next few weeks. Therefore, CFRC asked for guidance on next steps vis-à-vis the report, to avoid a repeat of what happened last year.  
+A few potential options were identified:  
+**Option #1**: Produce the FY2026 report using the current CFRC definitions for all indicators, including CFSR indicators.  
+**Option #2**: Begin work on the FY2026 report and update all indicators except the CFSR indicators (as you know, CFRC includes many indicators in addition to the CFRC indicators). Continue to have discussions about remaining CFSR indicators and come to consensus about definitions.  
+**Option #3**: Work on FY2026 until consensus is reached, with the expectation that the report will not be completed by June 30.  
 
 Mark noted that the outcomes using the "frozen data" will be submitted to the Court. He also commented that the spread sheet provided by Chapin Hall has been very helpful.
 
@@ -47,7 +47,7 @@ Brian Dougherty (DCFS) proposed amending Option #2 by forming a small group disc
 
 Mark requested that CFRC work on a spreadsheet formatted similarly to the one prepared by Chapin Hall.
 
-Action-Item List
+### Action-Item List  
 - DCFS will contact Tami as soon as possible to arrange a small group meeting. The group will focus on steps needed to reach consensus on the six CFSR indicators. 
 - CFRC will prepare a spreadsheet that mirrors the structure of the Chapin Hall spreadsheet previously provided. The spreadsheet should include relevant outcome data elements requested by Mark. 
 - DCFS and CFRC will continue discussions to align on what constitutes a “placement” and other definitions. Also, the two agencies will continue their joint work on the six CFSR indicators. 
